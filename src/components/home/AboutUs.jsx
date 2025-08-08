@@ -6,7 +6,7 @@ const AboutUs = () => {
     <section className="about">
       <h2><span className="about-icon">🏡</span> Sobre Nosotros</h2>
       <p>
-        En <strong>Sur Propiedades</strong> nos especializamos en ayudarte a encontrar la propiedad ideal. 
+        En <strong>Propiedades Oriente</strong> nos especializamos en ayudarte a encontrar la propiedad ideal. 
         Ofrecemos un servicio transparente, rápido y confiable, respaldado por años de experiencia en el sector inmobiliario.
       </p>
       <div className="about-details">
